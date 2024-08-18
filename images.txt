@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 node:16.20.2
 node:18.7.0
+node:20.16.0
