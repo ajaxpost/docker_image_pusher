@@ -6,4 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 node:16.20.2
 node:18.7.0
-node:18.20.3-bullseye-slim
+node:18.20.3-bullseye
