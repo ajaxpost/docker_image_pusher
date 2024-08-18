@@ -7,3 +7,4 @@ xhofe/alist:latest
 node:16.20.2
 node:18.7.0
 node:18.20.3
+node:18.20.3-bullseye-slim
