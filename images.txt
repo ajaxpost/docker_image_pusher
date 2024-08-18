@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 node:18.20.3-bullseye
 ghcr.io/open-webui/open-webui
+ollama/ollama
