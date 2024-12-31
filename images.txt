@@ -7,3 +7,4 @@ xhofe/alist:latest
 node:18.20.3-bullseye
 #ghcr.io/open-webui/open-webui
 #ollama/ollama
+node:20.18.0-bullseye
