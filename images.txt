@@ -7,3 +7,4 @@ xhofe/alist:latest
 node:18.20.3-bullseye
 node:20.18.0-bullseye
 jenkins/jenkins:jdk21
+gitlab/gitlab-ce:17.6.4-ce.0
